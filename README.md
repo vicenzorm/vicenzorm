@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hey! I'm Vicenzo Másera 😁</h1>
+  <h1>Hey! I'm Vicenzo Másera </h1>
 
   <p>Software Engineering Student at PUCRS & Scholar at the Apple Developer Academy program in TECNOPUC </p>
 
